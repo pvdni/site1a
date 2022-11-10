@@ -30,7 +30,7 @@ list-style: none;
 }
 main {
 
-background-color: ##DDA0DD
+background-color: #FFC0CB
 
 }
 
@@ -46,7 +46,7 @@ b {
 }
 
 #paragrafodiferente {
-	color: darkred;
+	color: #000000;
 	font-size: 50px;
 
 
@@ -57,7 +57,7 @@ font-size: 40px;
  }
 
  .momentos {
- 	background-color: yellow;
+ 	background-color:#FFDAB9;
  	padding: in;
  	margin: 10px;
  	border: black solid 2px;
